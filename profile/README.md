@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>AI-native affiliate marketing for SaaS.</strong><br/>
-  Launch, track, and scale your affiliate program — with AI agents or from the terminal.
+  Launch, track, and scale your affiliate program — with AI agents.
 </p>
 
 <p align="center">
@@ -28,16 +28,15 @@
 | Product | What it does |
 |---|---|
 | [list.affitor.com](https://list.affitor.com) | Community-ranked directory of SaaS affiliate programs. Search, compare, and discover. |
-| `npx affitor` | CLI to create affiliate programs, connect Stripe, and manage tracking — built for developers and AI agents. |
 | [Dashboard](https://affitor.com) | Full management UI: partners, commissions, payouts, analytics, real-time tracking. |
 
 ### Why Affitor
 
 Most affiliate platforms were built for marketers clicking through dashboards. Affitor is built for **developers and AI agents**.
 
-- **Agent-first** — every feature works via CLI, API, and MCP. AI agents can research programs, create content, and track performance without a browser.
+- **Agent-first** — every feature works via API and MCP. AI agents can research programs, create content, and track performance without a browser.
 - **52 open-source skills** — plug into Claude Code, ChatGPT, Cursor, Gemini, or any AI that reads text.
-- **Stripe-native** — connect Stripe in one command. Automatic commission tracking from real payments.
+- **Stripe-native** — automatic commission tracking from real Stripe payments.
 - **3.5% revenue share** — no monthly fees, no seat pricing. First $10K free.
 
 ### Try it now
