@@ -19,6 +19,7 @@
 
 | Project | Description | |
 |---|---|---|
+| [open-affiliate](https://github.com/Affitor/open-affiliate) | Open registry of 450+ affiliate programs. CLI, MCP server, SDK, REST API. [openaffiliate.dev](https://openaffiliate.dev) | ![GitHub Stars](https://img.shields.io/github/stars/Affitor/open-affiliate?style=flat) |
 | [affiliate-skills](https://github.com/Affitor/affiliate-skills) | 52 AI skills for the full affiliate flywheel — research, content, SEO, landing pages, distribution, analytics. | ![GitHub Stars](https://img.shields.io/github/stars/Affitor/affiliate-skills?style=flat) |
 | [content-pipeline](https://github.com/Affitor/content-pipeline) | AI-powered pipeline: research, write, and publish LinkedIn posts with branded infographics. | ![GitHub Stars](https://img.shields.io/github/stars/Affitor/content-pipeline?style=flat) |
 | [agent-skills](https://github.com/Affitor/agent-skills) | Drop-in `AGENTS.md` instructions for integrating Affitor tracking into any AI workflow. | ![GitHub Stars](https://img.shields.io/github/stars/Affitor/agent-skills?style=flat) |
@@ -27,6 +28,7 @@
 
 | Product | What it does |
 |---|---|
+| [openaffiliate.dev](https://openaffiliate.dev) | Open registry of 450+ affiliate programs. Browse, compare, search. CLI + MCP + API. |
 | [list.affitor.com](https://list.affitor.com) | Community-ranked directory of SaaS affiliate programs. Search, compare, and discover. |
 | [Dashboard](https://affitor.com) | Full management UI: partners, commissions, payouts, analytics, real-time tracking. |
 
@@ -52,6 +54,7 @@ Then recommend the best one and explain why.
 
 ### Resources
 
+- [OpenAffiliate Registry](https://openaffiliate.dev)
 - [Documentation](https://docs.affitor.com)
 - [Program Directory](https://list.affitor.com)
 - [X / Twitter](https://x.com/AffitorAI)
