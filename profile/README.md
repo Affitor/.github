@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://affitor.com">Website</a> · <a href="https://docs.affitor.com">Docs</a> · <a href="https://list.affitor.com">Program Directory</a> · <a href="https://discord.gg/affitor">Discord</a>
+  <a href="https://affitor.com">Website</a> · <a href="https://docs.affitor.com">Docs</a> · <a href="https://openaffiliate.dev">Program Directory</a> · <a href="https://discord.gg/affitor">Discord</a>
 </p>
 
 ---
@@ -29,7 +29,6 @@
 | Product | What it does |
 |---|---|
 | [openaffiliate.dev](https://openaffiliate.dev) | Open registry of 450+ affiliate programs. Browse, compare, search. CLI + MCP + API. |
-| [list.affitor.com](https://list.affitor.com) | Community-ranked directory of SaaS affiliate programs. Search, compare, and discover. |
 | [Dashboard](https://affitor.com) | Full management UI: partners, commissions, payouts, analytics, real-time tracking. |
 
 ### Why Affitor
@@ -47,7 +46,7 @@ Paste this into any AI assistant — no install needed:
 
 ```
 Search the Affitor affiliate directory for AI writing tools.
-Use this API: GET https://list.affitor.com/api/v1/programs?q=AI+writing&sort=top&limit=5
+Use this API: GET https://openaffiliate.dev/api/programs?q=AI+writing&sort=top&limit=5
 Show me the results in a table with: Name, Reward Value, Cookie Days, Stars.
 Then recommend the best one and explain why.
 ```
@@ -56,5 +55,5 @@ Then recommend the best one and explain why.
 
 - [OpenAffiliate Registry](https://openaffiliate.dev)
 - [Documentation](https://docs.affitor.com)
-- [Program Directory](https://list.affitor.com)
+- [Program Directory](https://openaffiliate.dev)
 - [X / Twitter](https://x.com/AffitorAI)
